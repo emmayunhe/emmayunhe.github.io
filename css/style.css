@@ -80,6 +80,14 @@
 		transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
 	}
 
+	a:link{
+		color: #FF0000;
+	}
+
+	a:visited{
+		color: #00FF00;
+	}
+
 	sub {
 		position: relative;
 		top: 0.5em;
