@@ -81,11 +81,11 @@
 	}
 
 	a:link{
-		color: #FF0000;
+		color: black; background-color: transparent; text-decoration: none;
 	}
 
 	a:visited{
-		color: #00FF00;
+		color: pink; background-color: transparent; text-decoration: none;
 	}
 
 	sub {
