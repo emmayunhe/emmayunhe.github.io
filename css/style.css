@@ -524,6 +524,8 @@
 					letter-spacing: -4px;
 				}
 
+
+
 				.main.style1:before {
 					content: '';
 					display: inline-block;
@@ -606,6 +608,15 @@
 
 					.main.style2.right .content {
 						left: 65%;
+					}
+
+
+					.main.style2.right h2 a {
+						color:black;
+					}
+
+					.main.style2.left h2 a {
+						color:black;
 					}
 
 				.main.style2.inactive {
